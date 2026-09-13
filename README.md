@@ -243,4 +243,4 @@ This repository serves as the official landing page for Monect PC Remote. The so
 **Get the most recent version of Monect PC Remote today!**
 
 ---
-**Last updated:** 2026-09-12 23:43:08 UTC
+**Last updated:** 2026-09-13 03:07:11 UTC
